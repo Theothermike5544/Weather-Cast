@@ -32,9 +32,9 @@ THEN I am again presented with current and future conditions for that city  </br
 - Openweather One Call API
 
 ## Screenshots
-![This is a Demo of what Weather-Cast should look like provided by Boot Camp Spot](/../assets/images/demo.png)
+![This is a Demo of what Weather-Cast should look like provided by Boot Camp Spot](demo.png)
 
-![This is a screenshot of the Weather-Cast deployed live on GitHub Pages Semi-Working in its current state!](/../assets/images/Screenshot.png)
+![This is a screenshot of the Weather-Cast deployed live on GitHub Pages Semi-Working in its current state!](Screenshot.png)
 
 ## URL link for deployed application
 URL for weather dashboard: https://theothermike5544.github.io/Weather-Cast/
